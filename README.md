@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there 👋 I'm Hanqi Wang
+I'm Hanqi Wang
 
 I'm a PhD student in Materials Science and Engineering at **Monash University**, working on computational materials science, magnetic topological materials, and low-energy electronic/spintronic materials.
 
